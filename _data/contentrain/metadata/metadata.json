@@ -1,0 +1,31 @@
+[
+  {
+    "createdAt": 1649949827138,
+    "ID": "ecdb167b-be1b-4026-a32f-4b031d3c4412",
+    "title": "Your Blog Name",
+    "url": "https://example.com/",
+    "language": "en",
+    "feed": {
+      "createdAt": 1649949905042,
+      "ID": "8e7e44c9-3d67-4de0-81cc-2abc883616dd",
+      "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://example.com/"
+    },
+    "jsonfeed": {
+      "createdAt": 1649949986042,
+      "ID": "27ed04e2-a396-4081-b799-68c7a3b44db8",
+      "path": "/feed/feed.json",
+      "url": "https://example.com/feed/feed.json"
+    },
+    "author": {
+      "updatedAt": 1649950071839,
+      "createdAt": 1649950019211,
+      "ID": "71d1d066-b989-4b01-8fa4-6359f1364cff",
+      "name": "Your Name Here",
+      "url": "https://example.com/about-me/",
+      "email": "youremailaddress@example.com"
+    }
+  }
+]

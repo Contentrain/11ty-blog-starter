@@ -1,0 +1,18 @@
+[
+  {
+    "updatedAt": 1649949726360,
+    "createdAt": 1649949701919,
+    "content": "I am a person that writes stuff.",
+    "title": "About Me",
+    "ID": "ec55924b-0c7a-46a5-a96c-91e55ab495da",
+    "slug": "about",
+    "layouts": "layouts/post.njk",
+    "temlateClass": "tmpl-post",
+    "eleventyNavigation": {
+      "createdAt": 1649949744993,
+      "ID": "9cd2001b-46d8-4875-9e00-fdc2b743463c",
+      "key": "About Me",
+      "order": "3"
+    }
+  }
+]
